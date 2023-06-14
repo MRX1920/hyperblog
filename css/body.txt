@@ -1,0 +1,5 @@
+body
+{
+    text-aling: center;
+    front-family: "Arial"';
+}
